@@ -1,2 +1,4 @@
 .venv
 .env
+dev
+__init__.py
